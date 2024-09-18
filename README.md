@@ -42,4 +42,8 @@ Here are some ideas to get you started:
   <a href="https://laravel.com/" rel="nofollow">
     <img height="32" width="32" src="https://camo.githubusercontent.com/586842a317366498ab0818d133b1174fc66dca440912012d11398006e6809bec/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c61726176656c" data-canonical-src="https://cdn.simpleicons.org/laravel" style="max-width: 100%;">
   </a>
+  <a href="https://codeigniter.com" rel="nofollow">
+    ![image](https://github.com/user-attachments/assets/273f363c-392e-4fb8-a40b-d2869639afa9)
+  </a>
+  
 </p>

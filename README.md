@@ -1,50 +1,231 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Ahmad Shiddiq "Farros" Mel Farros</h1>
 
-<!--
-**farrossiregar/farrossiregar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Backend Engineer • Full Stack Developer • AI Automation Enthusiast
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-## Tech Stack
-<p dir="auto">
-  <a href="https://www.javascript.com/" rel="nofollow">
-    <img height="32" width="32" src="https://camo.githubusercontent.com/1db06f12e154dd7927c76b5198c6facd6dc64aa89183fa5e2577db0bb423930b/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6a617661736372697074" data-canonical-src="https://cdn.simpleicons.org/javascript" style="max-width: 100%;">
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" rel="nofollow">
-    <img height="32" width="32" src="https://camo.githubusercontent.com/9a87c5c5129dc2af1dce323e548bb606e8289deb63b2d69776e95b88b757fe1a/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f68746d6c35" data-canonical-src="https://cdn.simpleicons.org/html5" style="max-width: 100%;">    </a>
-  <a href="https://www.css3.com/" rel="nofollow">
-    <img height="32" width="32" src="https://camo.githubusercontent.com/130f744846e9966adcb6bec292361c33c5116ab4201c0e4dcfb21ddf7d26aae0/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f63737333" data-canonical-src="https://cdn.simpleicons.org/css3" style="max-width: 100%;">
-  </a>
-  <a href="https://nodejs.org/" rel="nofollow">
-    <img height="32" width="32" src="https://camo.githubusercontent.com/7197c70d753f10923dc51d88e22b58dc6dca0a40a14fab99781a45375537ad2a/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6e6f64652e6a73" data-canonical-src="https://cdn.simpleicons.org/node.js" style="max-width: 100%;">
-  </a>
-  <a href="https://expressjs.com/" rel="nofollow">
-    <img height="32" width="32" src="https://camo.githubusercontent.com/e477bcb83064f5925e9bb25761e1f5ad9c632cb8faf92771dfde78932f51f590/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f65787072657373" data-canonical-src="https://cdn.simpleicons.org/express" style="max-width: 100%;">
-  </a>
-  <a href="https://www.python.org/" rel="nofollow">
-    <img height="32" width="32" src="https://camo.githubusercontent.com/b6de6b44a18ac80a891f7379db215743c0d94f90632c6abf17876c5444d1bf1e/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f707974686f6e" data-canonical-src="https://cdn.simpleicons.org/python" style="max-width: 100%;">
-  </a>
-  <a href="https://www.php.net/" rel="nofollow">
-    <img height="32" width="32" src="https://camo.githubusercontent.com/73ab7341dfa0f29616ad5cadea33104c2b86a61ea3bd1c2bfc5f333ee65bbc8c/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f706870" data-canonical-src="https://cdn.simpleicons.org/php" style="max-width: 100%;">
-  </a>
-  <a href="https://laravel.com/" rel="nofollow">
-    <img height="32" width="32" src="https://camo.githubusercontent.com/586842a317366498ab0818d133b1174fc66dca440912012d11398006e6809bec/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c61726176656c" data-canonical-src="https://cdn.simpleicons.org/laravel" style="max-width: 100%;">
-  </a>
-  <a href="https://codeigniter.com" rel="nofollow">
-    <img height="32" width="32" src="https://github.com/user-attachments/assets/e6acb209-6fbc-4103-9124-1dec8d05cf22" data-canonical-src="https://cdn.simpleicons.org/codeigniter" style="max-width: 100%;">
-
-  </a>
-  
+<p align="center">
+Building scalable backend systems, APIs, automation workflows, and AI-powered applications.
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 Backend Engineer with **8+ years** of professional experience
+- 🌏 Based in Indonesia | Open to **Remote Worldwide**
+- 🚀 Building production web applications serving **150K+ Monthly Active Users**
+- ❤️ Passionate about Backend Engineering, AI, Automation, and System Design
+- 📚 Currently learning
+  - AI Agents
+  - Event Driven Architecture
+  - AWS
+  - Kubernetes
+  - CI/CD
+  - Distributed Systems
+  - LLM Applications
+- 🎯 Career Goal
+  - Become a Senior Backend Engineer building products used globally.
+
+---
+
+# 🚀 Current Tech Stack
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,python,django,nodejs" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,bootstrap,tailwind" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
+</p>
+
+Also worked with
+
+- OpenSearch / Elasticsearch
+
+---
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,gcp,git,github" />
+</p>
+
+Currently learning
+
+- EC2
+- RDS
+- CloudWatch
+- GitHub Actions
+- CI/CD Pipeline
+- Infrastructure as Code
+
+---
+
+## AI & Automation
+
+- 🤖 OpenAI API
+- Claude
+- Gemini
+- Cursor
+- GitHub Copilot
+- n8n
+- MCP
+- AI Agent Workflow
+- RAG
+- Pinecone (Learning)
+- Milvus (Learning)
+
+---
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
+</p>
+
+Daily Workflow
+
+- Git
+- Composer
+- npm
+- Docker
+- Linux
+- XAMPP
+
+---
+
+# 💼 Professional Experience
+
+### Backend Engineer
+
+**Tribunnews.com**
+
+- Built and maintained production APIs
+- Developed CMS features
+- Worked on legacy CodeIgniter and modern Laravel projects
+- Integrated MongoDB and OpenSearch
+- Optimized backend performance
+- Maintained production systems serving 150K+ MAU
+- Worked closely with Frontend Developers, Mobile Developers, QA, Technical Writers, Product Managers and System Analysts
+
+---
+
+# 🔥 Featured Projects
+
+## 🏫 School LMS
+
+Laravel + Livewire
+
+Features
+
+- Multi School
+- Attendance
+- Assignment
+- File Upload
+- Dashboard
+- Authentication
+- Reporting
+
+---
+
+## 📰 TribunX API
+
+Production REST API powering mobile applications.
+
+Tech
+
+- PHP
+- CodeIgniter
+- MySQL
+- Redis
+- OpenSearch
+- MongoDB
+
+---
+
+## 📖 Headless CMS
+
+Currently building
+
+Tech
+
+- Laravel 12
+- Filament
+- Sanctum
+- TALL Stack
+- Docker
+- GCP
+
+---
+
+## 🤖 AI Automation Lab
+
+Learning repository
+
+Topics
+
+- n8n
+- AI Agents
+- MCP
+- Workflow Automation
+- RAG
+- LLM
+
+---
+
+# 📈 Currently Learning
+
+```text
+███████████████░░░ Laravel Architecture
+
+██████████████░░░░ AWS
+
+█████████████░░░░░ CI/CD
+
+████████████░░░░░░ Docker
+
+███████████░░░░░░░ AI Agent
+
+██████████░░░░░░░░ Kubernetes
+
+█████████░░░░░░░░░ System Design
+```
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+📧 your@email.com
+
+💼 LinkedIn
+
+🌍 Portfolio (Coming Soon)
+
+🐦 X / Twitter
+
+---
+
+> "I enjoy solving backend problems, automating repetitive work, and building software that scales."
